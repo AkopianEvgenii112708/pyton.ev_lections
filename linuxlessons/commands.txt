@@ -1,0 +1,41 @@
+Linux commands
+
+                                                 symbols
+                                                 
+ctrl + alt + t - open terminal
+cd/~ - home directory 
+/ - main directory
+.. - past directory 
+. - current directory
+
+                                                commands 
+                                                
+1) ls - check all files and folders in current directory
+2) touch - create file
+3) cd - change directory
+4) mkdir - create folder
+5) rmdir - delete folder
+6) mv - rename folder
+7) rm - delete files
+8) pwd - way to current folder
+9) cd .. - get 1 step back
+10) nano 'file name'- change file
+11) cat 'file name'- read file
+12) rm -rf - delete anyway
+13) ls -a - show hidden files
+14) echo - команда для быстрой записи текстовой информации 
+echo текст для записи > файл в который записать
+
+15) mv - переименование или перемещение файлов и директорий	
+
+переименовать: mv john jack   (mv <старое название> <новое название>)
+переместить: mv john ~/Desktop/  (mv <название директории> ~/<directory/>)
+
+cp - копировать файл
+
+
+
+
+
+
+
