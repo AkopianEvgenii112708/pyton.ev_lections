@@ -38,8 +38,53 @@
 # print(str1[:5]) - Выводит все значения до 5 индекса
 
 # text = 'Hello world! My name is John! i\'m North king!'
-# # print(text)
-# # print(len(text))
+# print(text)
+# print(len(text))
 # print(text[:12])
+
+
+# Конкатиннация строк (слияние, соединение)
+# word1 = 'Hello'
+# word2 = 'World'
+# result = word1 + ' ' + word2 + '!'
+# print(result)
+
+
+# Форматирование строк
+# 1. С помощью знака %
+# 2. С помощью .format()
+# 3. Интерполяция строк (f-строки)
+
+# % 
+# name = input('enter your name: ')
+# last_name = input('enter your last name: ')
+# print('Hello, my name is', name, last_name)
+# print('Hello, my name is' + ' ' + name + ' ' + last_name)
+# print('Hello, my name is %s %s' %(name, last_name))
+
+# .format
+# name = input('enter your name: ')
+# last_name = input('enter your last name: ')
+# print('Hello, my name is {} {}' .format(name, last_name))
+
+# (f-строки)
+# name = input('enter your name: ')
+# last_name = input('enter your last name: ')
+# print(f'Hello, my name is {name} {last_name} !!!')
+
+# Экранирование строк - механизм при помощи которого можно вставлять символы, которые сложно ввести с клавиатуры в строку
+# \n - перенос строки
+# \t - горизонтальная табуляция
+# \v - вертикальная табуляция 
+
+
+# name = 'John\nSnow'
+# lastName = '\vSnow'
+# last_name = '\tSnow'
+# print(name)
+# print(lastName)
+# print(last_name)
+
+
 
 
