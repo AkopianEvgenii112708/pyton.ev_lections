@@ -173,3 +173,24 @@
 # # 'разделитель'.join(iterable(list)) - соединяет строки которые находятся в list по разделтелю.
 # res = ' '.join(ls)
 # print(res)
+
+
+
+
+
+
+
+
+# a = input('Vvedite 1')
+# als = a.split(' ')
+# b = input('Vvedite 2')
+# bls = b.split(' ')
+# c = input('Vvedite 3')
+# ccls = c.split(' ')
+# d = input('Vvedite 4')
+# dls = d.split(' ')
+# f = input('Vvedite 5')
+# fls = f.split(' ')
+# name = [als[-1], bls[-1], ccls[-1], dls[-1], fls[-1],]
+# name.sort()
+# print(name)
