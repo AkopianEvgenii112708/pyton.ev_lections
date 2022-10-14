@@ -163,8 +163,46 @@
 #     print('Остаток:', x % y)
 
 
-
-
-
-
+# ks = []
+# ls = []
+# for x in range(0, 5):
+#     x = input('Vvedite imya: ')
+#     x = x.split(' ')
+#     ls.append(x)
+# for p in ls:
+#     ks.append(p[-1])
+# ks.sort()
+# print(ks)
     
+# ks = []
+# ls = []
+# name1 = input()
+# name2 = input()
+# name3 = input()
+# name4 = input()
+# name5 = input()
+# nn1 = name1.split(' ')
+# nn2 = name2.split(' ')
+# nn3 = name3.split(' ')
+# nn4 = name4.split(' ')
+# nn5 = name5.split(' ')
+# ls.append(nn1)
+# ls.append(nn2)
+# ls.append(nn3)
+# ls.append(nn4)
+# ls.append(nn5)
+
+# for p in ls:
+#     ks.append(p[-1])
+# ks.sort()
+# print(ks)
+
+
+
+
+
+name1 = input()
+name2 = input()
+name3 = input()
+name4 = input()
+name5 = input()
